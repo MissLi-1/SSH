@@ -1,7 +1,14 @@
 <bean id="person" class = "com.atguigu.bean.Person">
 	<property name="username" value="张三"></property>
 </bean>	
+<bean id="person" class = "com.atguigu.bean.Person">
+        <property name="username" value="cit"></property>
+</bean>
+
 <bean id="user" class = "com.atguigu.bean.User">
         <property name="username" value="李四"></property>
+</bean>
+<bean id="person" class = "com.atguigu.bean.Person">
+        <property name="username" value="马六"></property>
 </bean>
 	
