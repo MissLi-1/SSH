@@ -4,4 +4,7 @@
 <bean id="user" class = "com.atguigu.bean.User">
         <property name="username" value="李四"></property>
 </bean>
+<bean id="user" class = "com.atguigu.bean.User">
+        <property name="username" value="王五"></property>
+</bean>
 	
